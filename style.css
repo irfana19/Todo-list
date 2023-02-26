@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: cursive;
+}
+
+body {
+	background: #e990c1;
+	overflow: auto;
+}
+
+h1{
+	text-align: center;
+	margin: 5%;
+	font-size: 3rem;
+	text-decoration: double underline;
+}
+
+ul {
+	text-align: left;
+	padding-left: 10%;
+	padding: 7%;
+	font-size: 2rem;
+	list-style: points;
+}
+
+li:hover{
+	color:rgb(20, 20, 20);
+	margin: 4%;
+	transition: 1.2ss ease;
+	cursor: pointer;
+}
+
